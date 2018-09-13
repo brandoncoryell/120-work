@@ -13,7 +13,3 @@ The videos and text content throughout the module were very helpful for me in co
 ## Conclusion
 
 I can't wait to continue to learn about functions in coding and the variety of ways that a function can be used. It became apparent even more that coding is such a powerful form of expression. I am beginning to feel more and more comfortable working with the applications.
-
-## Final sketch
-
-![This is my hw-3 final sketch](Images\helloworld1.jpg)
