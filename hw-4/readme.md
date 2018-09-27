@@ -1,6 +1,6 @@
 # Brandon Coryell, 50
 
-[Mike Wazowski](https://brandoncoryell.github.io/120-work/hw-3/)
+[Mike Wazowski](https://brandoncoryell.github.io/120-work/hw-4/)
 
 ## In Summary
 
@@ -12,4 +12,4 @@ I watched a few videos that helped me get started and kind of get through the ba
 
 ## Conclusion
 
-I'm finding it hard to contribute to the issues forum because I just don't have the knowledge. If I was to run into issue that I had to research to fix, maybe I would then be able to pass that information on. I will have to figure out other ways that I can make posts. 
+I'm finding it hard to contribute to the issues forum because I just don't have the knowledge. If I was to run into issue that I had to research to fix, maybe I would then be able to pass that information on. I will have to figure out other ways that I can make posts.

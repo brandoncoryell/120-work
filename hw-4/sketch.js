@@ -1,12 +1,13 @@
 //Brandon Coryell 50
+//hw-4
 
 // Declare the setup function
 function setup() {
 
-    // creat canvas
+// creat canvas
     createCanvas(900, 600)
 
-    //color the background 'blue'
+//color the background 'blue'
     background('gray');
 }
 
